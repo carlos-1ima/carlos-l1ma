@@ -1,13 +1,21 @@
-# Olá, me chamo Carlos Eduardo! 
-## Bem vindo ao meu perfil GitHub 👋
+## Carlos Eduardo
 
-Tenho 19 anos, sou de Recife-PE, e atualmente estudo Análise e Desenvolvimento de Sistemas com uma paixão por tecnologia e inovação. Meu objetivo é contribuir para a transformação digital e encontrar soluções tecnológicas que façam a diferença.
+### Hello, Devs!
+
+Tenho 19 anos, sou de Recife-PE, e atualmente estudo Análise e Desenvolvimento de Sistemas com uma paixão por tecnologia e inovação. Meu objetivo é contribuir para a transformação digital e encontrar soluções tecnológicas que façam a diferença. 💻
+
+<div>
+<a href="https://github.com/carlos-l1ma">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=carlos-l1ma&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 ## Ferramentas e Tecnologias
 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/> 
 </div>
+
+</br>
 
 🔭 Atualmente estou trabalhando na BM Contabilidade.
 
@@ -23,8 +31,3 @@ Tenho 19 anos, sou de Recife-PE, e atualmente estudo Análise e Desenvolvimento 
 <a href="https://instagram.com/carlos.1ima" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/carlos-lima-44b324275" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-<div>
-<a href="https://github.com/carlos-l1ma">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-l1ma&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=carlos-l1ma&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
