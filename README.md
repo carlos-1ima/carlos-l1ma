@@ -28,26 +28,3 @@ Tenho 19 anos, sou de Recife-PE, e atualmente estudo Análise e Desenvolvimento 
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-l1ma&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=carlos-l1ma&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-- 🌱 Atualmente estou aprendendo Java, Python e Figma.
-- 👯 Estou procurando colaborar em projetos da faculdade e cursos de plataformas online.
-- 📫 Como entrar em contato comigo: 
-- 😄 Pronomes: ...
-- ⚡ Curiosidade: ...
--->
-Olá! Sou um estudante de Análise e Desenvolvimento de Sistemas com uma paixão por tecnologia e inovação. Tenho habilidades em Python, Java, e desenvolvimento de aplicações, além de experiência com ferramentas como Figma, Git e GitHub. Atualmente, estou envolvido em projetos de aprendizado de máquina, onde exploro a análise de dados e a criação de modelos preditivos.
