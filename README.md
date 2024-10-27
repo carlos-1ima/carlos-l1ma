@@ -5,8 +5,9 @@
 Tenho 19 anos, sou de Recife-PE, e atualmente estudo Análise e Desenvolvimento de Sistemas com uma paixão por tecnologia e inovação. Meu objetivo é contribuir para a transformação digital e encontrar soluções tecnológicas que façam a diferença. 💻
 
 <div>
-<a href="https://github.com/carlos-l1ma">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=carlos-l1ma&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/carlos-1ima">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-1ima&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=carlos-1ima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ## Ferramentas e Tecnologias
